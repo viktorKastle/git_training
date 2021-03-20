@@ -1,3 +1,3 @@
 # Title of Document
 
-Some description
+Description of the document
